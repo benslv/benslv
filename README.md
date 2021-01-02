@@ -9,4 +9,4 @@ I'm a Computer Science student at the **University of York**, currently living i
 
 ## 💬 Get in touch
 🐦 Follow me on [**Twitter**](https://twitter.com/bensilverman_)!  
-🔗 Connect with my on [**LinkedIn**](https://www.linkedin.com/in/ben-silverman/)
+🔗 Connect with my on [**LinkedIn**](https://www.linkedin.com/in/ben-silverman/).
