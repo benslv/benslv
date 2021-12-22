@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ben! 
 
-I'm a Computer Science student at the **University of York**, currently living in 🇬🇧 **Cambridge, England.**
+I'm a Computer Science student at the **University of York**, currently living in 🇬🇧 **York, England.**
 
 ## ✏️ Some of my projects...
 🤖 [**Countable**](https://github.com/benslv/countable), a small, robust(-ish) Discord bot to support and manage a counting channel in your server.  
