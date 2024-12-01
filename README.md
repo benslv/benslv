@@ -10,5 +10,3 @@ I love all things web/software development. Currently at Starling Bank.
 
 ## 💬 Get in touch
 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ben-silverman/).
-
-![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=benslv&count_private=true&show_icons=true&theme=react)
